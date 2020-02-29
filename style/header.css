@@ -1,0 +1,37 @@
+a{
+    color:white;
+}
+
+header{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;    
+    width: 100vw;
+    height: 10vh;
+    background-color: #33384c;
+}
+.hed_el{
+    height:10vh;
+    width:17vw;
+    box-sizing: border-box;
+    text-align: center;
+    line-height: 250%;
+    font-size: 150%;
+    color:white;
+    /* border: .5px dashed white;    */
+}
+.shop_name{
+    line-height: 175%;
+    font-size: 200%;
+    font-family:;
+}
+input{
+    height: 3.5vh;
+    vertical-align: middle;
+}
+.bascet{
+    width: 10vw;
+}
+button{
+    height: 5vh;
+}
